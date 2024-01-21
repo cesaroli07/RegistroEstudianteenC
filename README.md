@@ -1,2 +1,2 @@
 # RegistroEstudianteenC
-Es un registro de ingreso y eliminacion busqueda de estudiantes empezando para que lean codigo
+Es un registro de ingreso(addstudent) y eliminacion(deletestudent) busqueda(searchstudent) de estudiantes en programa C.
